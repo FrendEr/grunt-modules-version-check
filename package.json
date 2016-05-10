@@ -1,0 +1,21 @@
+{
+  "name": "grunt-modules-version-check",
+  "description": "node module version check for grunt",
+  "version": "0.0.1",
+  "licenses": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "modules-version-check": "0.0.1"
+  }
+}
