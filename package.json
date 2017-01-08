@@ -1,7 +1,7 @@
 {
   "name": "grunt-modules-version-check",
   "description": "node module version check for grunt",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "licenses": "MIT",
   "engines": {
     "node": ">= 0.8.0"
@@ -16,6 +16,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "modules-version-check": "~0.0.1"
+    "modules-version-check": "^0.1.0"
   }
 }
